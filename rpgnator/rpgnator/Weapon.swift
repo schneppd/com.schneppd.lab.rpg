@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class Weapon {
+    var damage:Int = 0
+    
+    init(weaponDamage:Int) {
+        damage = weaponDamage
+    }
+}

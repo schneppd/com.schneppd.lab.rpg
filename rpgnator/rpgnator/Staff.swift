@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+class Staff : Weapon {
+    init() {
+        super.init(weaponDamage:19)
+    }
+}

@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+class Bow : Weapon {
+    init() {
+        super.init(weaponDamage:9)
+    }
+}
