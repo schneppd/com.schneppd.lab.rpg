@@ -10,6 +10,11 @@
 		2C7A35AF1E9385F800EE3AF1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35AE1E9385F800EE3AF1 /* main.swift */; };
 		2C7A35B61E938AB100EE3AF1 /* Application.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35B51E938AB100EE3AF1 /* Application.swift */; };
 		2C7A35B81E93902700EE3AF1 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35B71E93902700EE3AF1 /* Character.swift */; };
+		2C7A35BA1E93906A00EE3AF1 /* Weapon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35B91E93906A00EE3AF1 /* Weapon.swift */; };
+		2C7A35BC1E93909300EE3AF1 /* Sword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35BB1E93909300EE3AF1 /* Sword.swift */; };
+		2C7A35BE1E9390A800EE3AF1 /* Staff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35BD1E9390A800EE3AF1 /* Staff.swift */; };
+		2C7A35C01E9390BB00EE3AF1 /* Bow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35BF1E9390BB00EE3AF1 /* Bow.swift */; };
+		2C7A35C21E9390F700EE3AF1 /* RPG.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A35C11E9390F700EE3AF1 /* RPG.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +34,11 @@
 		2C7A35AE1E9385F800EE3AF1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		2C7A35B51E938AB100EE3AF1 /* Application.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Application.swift; sourceTree = "<group>"; };
 		2C7A35B71E93902700EE3AF1 /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		2C7A35B91E93906A00EE3AF1 /* Weapon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Weapon.swift; sourceTree = "<group>"; };
+		2C7A35BB1E93909300EE3AF1 /* Sword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sword.swift; sourceTree = "<group>"; };
+		2C7A35BD1E9390A800EE3AF1 /* Staff.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Staff.swift; sourceTree = "<group>"; };
+		2C7A35BF1E9390BB00EE3AF1 /* Bow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bow.swift; sourceTree = "<group>"; };
+		2C7A35C11E9390F700EE3AF1 /* RPG.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RPG.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +74,11 @@
 				2C7A35AE1E9385F800EE3AF1 /* main.swift */,
 				2C7A35B51E938AB100EE3AF1 /* Application.swift */,
 				2C7A35B71E93902700EE3AF1 /* Character.swift */,
+				2C7A35B91E93906A00EE3AF1 /* Weapon.swift */,
+				2C7A35BB1E93909300EE3AF1 /* Sword.swift */,
+				2C7A35BD1E9390A800EE3AF1 /* Staff.swift */,
+				2C7A35BF1E9390BB00EE3AF1 /* Bow.swift */,
+				2C7A35C11E9390F700EE3AF1 /* RPG.swift */,
 			);
 			path = rpgnator;
 			sourceTree = "<group>";
@@ -126,7 +141,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C7A35BE1E9390A800EE3AF1 /* Staff.swift in Sources */,
+				2C7A35BC1E93909300EE3AF1 /* Sword.swift in Sources */,
 				2C7A35B81E93902700EE3AF1 /* Character.swift in Sources */,
+				2C7A35C01E9390BB00EE3AF1 /* Bow.swift in Sources */,
+				2C7A35BA1E93906A00EE3AF1 /* Weapon.swift in Sources */,
+				2C7A35C21E9390F700EE3AF1 /* RPG.swift in Sources */,
 				2C7A35B61E938AB100EE3AF1 /* Application.swift in Sources */,
 				2C7A35AF1E9385F800EE3AF1 /* main.swift in Sources */,
 			);
