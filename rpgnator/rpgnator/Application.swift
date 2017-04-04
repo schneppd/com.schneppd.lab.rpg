@@ -9,6 +9,6 @@
 import Foundation
 
 class Application {
-    static let version = "0.0.0 2017-04-04 10:01"
+    static let version = "0.9.0 2017-04-04 10:36"
     static let name = "Rpgnator"
 }

@@ -18,3 +18,6 @@ import Foundation
 
 print("Welcome to \(Application.name) version \(Application.version)")
 
+let game = RPG()
+game.Start()
+
